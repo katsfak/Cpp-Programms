@@ -9,11 +9,11 @@ int main()
   cin>> x;
   cout<<"Εισαγωγή Δευτέρου Αριθμού : " <<endl;
   cin>> y;
-  cout<<"Επιλογές \n "<<endl;
-  cout<<"1.Πρόσθεση \n"<<endl;
-  cout<<"2.Αφαίρεση \n"<<endl;
-  cout<<"3.Πολλαπλασιασμός \n"<<endl; 
-  cout<<"4.Διαίρεση \n"<<endl;
+  cout<<"Επιλογές  "<<endl;
+  cout<<"1.Πρόσθεση "<<endl;
+  cout<<"2.Αφαίρεση "<<endl;
+  cout<<"3.Πολλαπλασιασμός "<<endl; 
+  cout<<"4.Διαίρεση "<<endl;
   do{
     system("cls");
     cout<<"Εισαγωγή επιλογής : " << endl;
